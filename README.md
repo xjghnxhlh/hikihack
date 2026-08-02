@@ -9,6 +9,13 @@ Les informations présentées ne doivent être utilisées que dans le cadre de t
 * Les missions de pentest disposant d'une autorisation écrite.
 * Les travaux de recherche, d'enseignement ou de sensibilisation à la sécurité informatique.
 
+## 📄 Rapport de prévention
+
+Pour une présentation détaillée de la vulnérabilité, de ses impacts et des recommandations de sécurité, consultez le rapport suivant :
+
+**Rapport de prévention – CVE-2017-7921 :**
+https://github.com/xjghnxhlh/hikihack/blob/main/Rapport_Prevention_CVE-2017-7921.pdf
+
 ## Utilisations interdites
 
 L'utilisation de ces informations pour :
