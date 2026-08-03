@@ -1,46 +1,54 @@
 # ⚠️ AVERTISSEMENT ÉTHIQUE – LECTURE OBLIGATOIRE
 
-Ce document analyse la vulnérabilité **CVE-2017-7921** dans un objectif exclusivement éducatif, de recherche et de sensibilisation à la cybersécurité. Il a pour but d'expliquer la nature de cette vulnérabilité, les risques qu'elle représente et les mesures permettant de s'en protéger.
+Ce dépôt présente une analyse de la vulnérabilité **CVE-2017-7921** dans un objectif exclusivement **éducatif**, **scientifique** et de **sensibilisation à la cybersécurité**. Il vise à expliquer les risques associés à cette vulnérabilité, son impact potentiel et les mesures permettant de s'en protéger.
 
-Les informations présentées ne doivent être utilisées que dans le cadre de tests de sécurité **autorisés**, tels que :
+Les informations présentées ne doivent être utilisées que dans un cadre **légal et autorisé**, notamment pour :
 
-* L'audit de systèmes dont vous êtes propriétaire ou administrateur.
-* Les laboratoires de test, environnements virtuels ou plateformes d'entraînement.
-* Les missions de pentest disposant d'une autorisation écrite.
-* Les travaux de recherche, d'enseignement ou de sensibilisation à la sécurité informatique.
+* l'audit de systèmes dont vous êtes propriétaire ou administrateur ;
+* les laboratoires de test et environnements virtuels ;
+* les missions de pentest réalisées avec une autorisation écrite ;
+* la recherche, l'enseignement et la sensibilisation à la cybersécurité.
 
 ## 📄 Rapport de prévention
 
-Pour une présentation détaillée de la vulnérabilité, de ses impacts et des recommandations de sécurité, consultez le rapport suivant :
+Un rapport détaillé est disponible et présente :
 
-**Rapport de prévention – CVE-2017-7921 :**
+* le contexte de la vulnérabilité **CVE-2017-7921** ;
+* les équipements concernés ;
+* les impacts potentiels sur la sécurité ;
+* les recommandations de mitigation et les bonnes pratiques de sécurisation.
+
+➡️ **Rapport PDF :**
 https://github.com/xjghnxhlh/hikihack/blob/main/Rapport_Prevention_CVE-2017-7921.pdf
 
-## Utilisations interdites
+## 📷 Exemple de résultat (environnement de test)
 
-L'utilisation de ces informations pour :
+La capture d'écran suivante illustre un **résultat obtenu dans un environnement de test autorisé**. Toutes les informations sensibles (identifiants, mots de passe, adresses IP, numéros de série et autres données confidentielles) ont été **anonymisées avant publication**.
 
-* accéder à un équipement ou un réseau sans autorisation ;
+<p align="center">
+  <img src="https://github.com/xjghnxhlh/hikihack/blob/main/credentials.png?raw=true" alt="Résultat CVE-2017-7921 - Credentials anonymisés" width="900">
+</p>
+
+> **Remarque :** Cette illustration est fournie uniquement à des fins de démonstration et de sensibilisation. Elle permet d'illustrer l'impact potentiel de la vulnérabilité dans un contexte de test autorisé. Elle ne constitue ni un guide d'exploitation, ni une autorisation d'accéder à des systèmes appartenant à des tiers.
+
+## 🚫 Utilisations interdites
+
+Il est strictement interdit d'utiliser les informations de ce dépôt pour :
+
+* accéder à un système, un réseau ou un équipement sans autorisation ;
 * exploiter une vulnérabilité sur un système appartenant à un tiers ;
 * compromettre la confidentialité, l'intégrité ou la disponibilité d'un système ;
 * contourner des mécanismes de sécurité ou porter atteinte à la vie privée d'autrui ;
+* faciliter une activité frauduleuse, malveillante ou illégale.
 
-est susceptible de constituer une infraction pénale selon la législation en vigueur.
+Ces actions sont susceptibles de constituer des infractions pénales selon la législation applicable.
 
-## Objectif du document
+## 🤝 Divulgation responsable
 
-L'objectif est de comprendre :
+En cas de découverte d'une vulnérabilité, il est recommandé d'adopter une démarche de **divulgation responsable** en informant le fournisseur ou le propriétaire du système concerné afin qu'un correctif puisse être déployé avant toute communication publique.
 
-* le fonctionnement de la vulnérabilité **CVE-2017-7921** ;
-* les produits et versions concernés ;
-* les impacts potentiels sur la sécurité ;
-* les méthodes de détection et de mitigation ;
-* l'importance de maintenir les firmwares et équipements à jour.
+## ⚖️ Responsabilité
 
-Ce document ne constitue pas une autorisation d'utiliser ces connaissances contre des systèmes tiers.
+L'auteur décline toute responsabilité quant à l'utilisation illégale ou non autorisée des informations contenues dans ce dépôt. Le lecteur est seul responsable du respect des lois en vigueur et des autorisations nécessaires.
 
-## Responsabilité
-
-L'auteur décline toute responsabilité en cas d'utilisation illégale ou contraire à l'éthique des informations contenues dans ce document. Le lecteur est seul responsable du respect des lois, des conditions d'utilisation et des autorisations applicables.
-
-En poursuivant votre lecture, vous reconnaissez utiliser ces informations uniquement dans un cadre légal, éthique et autorisé.
+En consultant ce dépôt, vous reconnaissez utiliser son contenu uniquement dans un cadre légal, éthique et autorisé.
