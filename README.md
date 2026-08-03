@@ -1,4 +1,4 @@
-# S⚠️ AVERTISSEMENT ÉTHIQUE – LECTURE OBLIGATOIRE
+# ⚠️ AVERTISSEMENT ÉTHIQUE – LECTURE OBLIGATOIRE
 
 Ce dépôt présente une analyse de la vulnérabilité **CVE-2017-7921** dans un objectif exclusivement **éducatif**, **scientifique** et de **sensibilisation à la cybersécurité**. Il vise à expliquer les risques associés à cette vulnérabilité, son impact potentiel et les mesures permettant de s'en protéger.
 
