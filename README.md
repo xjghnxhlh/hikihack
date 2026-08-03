@@ -2,7 +2,7 @@
 
 Ce dépôt présente une analyse de la vulnérabilité **CVE-2017-7921** dans un objectif exclusivement **éducatif**, **scientifique** et de **sensibilisation à la cybersécurité**. Il vise à expliquer les risques associés à cette vulnérabilité, son impact potentiel et les mesures permettant de s'en protéger.
 
-Les informations présentées ne doivent être utilisées que dans un cadre **légal et autorisé**, notamment pour :
+Les informations présentées ne doivent être utilisées que dans un cadre **légale et autorisé**, notamment pour :
 
 * l'audit de systèmes dont vous êtes propriétaire ou administrateur ;
 * les laboratoires de test et environnements virtuels ;
